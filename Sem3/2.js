@@ -4,7 +4,8 @@
 //Необходимо у пользователя запросить имя и вызвать функцию greeting, передав туда данное значение.
 
 
-function Grettings() {
+function Grettings()
+ {
     let name = prompt('Введите Ваше имя');
     res = `Привет, ${name}!!`
     alert(res);
