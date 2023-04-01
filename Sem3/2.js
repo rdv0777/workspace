@@ -7,8 +7,8 @@
 function Grettings() {
     let name = prompt('Введите Ваше имя');
     res = `Привет, ${name}!!`
-    alert(res)
-};
+    alert(res);
+}
 
 Grettings();
 console.log(res);

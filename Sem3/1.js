@@ -16,5 +16,5 @@ alert(`Цельсий: ${num.toFixed(1)}, Фаренгейт: ${Fahr(num).toFixe
 
 function Fahr(a)
 {
-    return (9 / 5) * a + 32;
+    return  (9 / 5) * a + 32;
 }
